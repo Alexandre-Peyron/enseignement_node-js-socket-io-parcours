@@ -62,15 +62,15 @@ Développement des fonctionnalités d'envoi et de réception de messages, gestio
 
 Finalisation de l'interface utilisateur, amélioration du design et de l'ergonomie, et intégration de toutes les fonctionnalités.
 
-### [Étape 10 : Amélioration de l'expérience utilisateur](etape10-amelioration-ux.md) ✨
+### [Étape 10 : Amélioration de l'expérience utilisateur](etape10-amelioration-ux.md) [Optionnelle] ✨
 
 Ajout de fonctionnalités améliorant l'expérience utilisateur, telles que les notifications, les indicateurs de frappe, et les statuts utilisateur.
 
-### [Étape 11 : Tests et débogage](etape11-tests-debugging.md) 🐛
+### [Étape 11 : Tests et débogage](etape11-tests-debugging.md) [Optionnelle] 🐛
 
 Mise en place de tests unitaires et d'intégration, débogage des fonctionnalités, et optimisation des performances.
 
-### [Étape 12 : Déploiement et mise en production](etape12-deploiement.md) 🚀
+### [Étape 12 : Déploiement et mise en production](etape12-deploiement.md) [Optionnelle] 🚀
 
 Préparation de l'application pour la production, déploiement sur un serveur, et configuration pour un environnement de production.
 

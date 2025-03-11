@@ -84,6 +84,14 @@ L'évaluation se fera sur la base des livrables de chaque module, selon les crit
 4. **Performance (5%)** : L'application est-elle performante et optimisée ?
 5. **Documentation (10%)** : La documentation est-elle claire, complète et précise ?
 
+## Pour le rendu
+
+Envoyer un email sur mon email universitaire.
+Indiquer:
+- les noms des personnes si travail de groupe
+- le lien vers le repository
+- le lien vers la documentation pour installer le projet
+
 ## Ressources supplémentaires 📚
 
 - [Documentation de Socket.io](https://socket.io/docs/v4) - La doc officielle, votre meilleure amie !
